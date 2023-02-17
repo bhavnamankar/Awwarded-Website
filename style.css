@@ -145,7 +145,7 @@ border-left:4px solid red;
    
     width: 40vw;
     height: 40vw;
-    margin-left: 20vw;
+    margin-left: 12vw;
     margin-top: 12vw;
     z-index: 4444444;
 
@@ -1042,7 +1042,7 @@ textPath{
 .Ho-two{
 
   
- margin-left: 42.5vw;
+ margin-left: 42.6vw;
 position: relative;
 bottom: 3vw;
 }
@@ -1173,8 +1173,8 @@ padding-top: 3rem;
     /* position: absolute; */
     width:48vw;
     height:48vw;
-    margin-left: 5vw;
-    margin-top: 12vw;
+    margin-left: -5vw;
+    margin-top: 12.1vw;
     z-index: 4444444;
 
 }
@@ -1234,7 +1234,26 @@ padding-top: 3rem;
     padding-right: 7vw;
     padding-bottom: 40vw;
 }
+#awards #wrapper{
+    position: absolute;
+    top: 33%;
+    left: 8%;
 
+}
+#award-txt h1 {
+    font-size: 4rem;
+    font-weight: 100;
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+#award-txt p {
+    font-size: 1rem;
+    margin-left: 5vw;
+    font-family: 'Source Serif Pro', serif;
+
+    font-weight: 500;
+}
 
 #form{
     margin-top: -12vw;
